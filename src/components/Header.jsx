@@ -16,7 +16,7 @@ function Header({ isSticky }) {
         <div className="container">
           <div className="w-100 d-flex justify-content-between align-items-center header">
             <div className="d-flex ctop callus">
-              <i className="bi bi-telephone"></i> <span><strong>Call Now</strong> +91 9958795117</span>
+              <i className="bi bi-telephone"></i> <span><strong>Call Now</strong> +91 8796294441</span>
             </div>
 
             <div className="mb-0">
@@ -26,7 +26,7 @@ function Header({ isSticky }) {
             </div>
 
             <div className="d-flex ctop emailus">
-              <i className="bi bi-envelope"></i> <span><strong>Email Now</strong> info@digivera.in</span>
+              <i className="bi bi-envelope"></i> <span><strong>Email Now</strong> customersupport@digivera.co.in</span>
             </div>
           </div>
 
